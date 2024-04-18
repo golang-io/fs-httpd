@@ -1,0 +1,4 @@
+github.com/go-chi/chi/v5 v5.0.12 h1:9euLV5sTrTNTRUU9POmDUvfxyj6LAABLUcEWO+JJb4s=
+github.com/go-chi/chi/v5 v5.0.12/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/golang-io/requests v0.0.0-20240418041245-614228e2b1c4 h1:Kdlp5yfTfUam3xUw4COiNVttNfZC9uTN9m7EFYptq+c=
+github.com/golang-io/requests v0.0.0-20240418041245-614228e2b1c4/go.mod h1:vEpXWewdPynSg2PqVQmNo87Nw9ujO2DttSmCuPy2MNE=
